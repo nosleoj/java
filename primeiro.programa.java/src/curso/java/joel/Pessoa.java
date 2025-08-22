@@ -11,6 +11,8 @@ public class Pessoa {
 	
 	private Date datacadastro;
 	
+	private Sring nome;
+	
 	private Date dataNascimento;
 	
 	public Date getDataNascimento() {
